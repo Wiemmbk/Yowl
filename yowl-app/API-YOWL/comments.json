@@ -1,0 +1,54 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "parent": 0,
+      "user_id": 1,
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, excepturi.",
+      "rate": "1",
+      "publication_date": "cheminDeLImage",
+      "modification_date": "cheminDeLImage"
+    },
+    
+    {
+      "id": 2,
+      "parent": 0,
+      "user_id": 1,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias culpa fuga sunt expedita magnam.",
+      "rate": "3",
+      "publication_date": "cheminDeLImage",
+      "modification_date": "cheminDeLImage"
+    },
+    
+    {
+      "id": 3,
+      "parent": 0,
+      "user_id": 1,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, tempore officiis, beatae iste adipisci ipsum expedita laudantium facilis placeat aut quibusdam illum iusto sunt dolorum ea, totam doloremque tempora veritatis?",
+      "rate": "5",
+      "publication_date": "cheminDeLImage",
+      "modification_date": "cheminDeLImage"
+    },
+    
+    {
+      "id": 4,
+      "parent": 0,
+      "user_id": 1,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, tempore officiis, beatae iste adipisci ipsum expedita laudantium facilis placeat aut quibusdam illum iusto sunt dolorum ea.",
+      "rate": "2",
+      "publication_date": "cheminDeLImage",
+      "modification_date": "cheminDeLImage"
+    },
+    
+    {
+      "id": 5,
+      "parent": 0,
+      "user_id": 1,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, tempore officiis, beatae iste adipisci ipsum expedita laudantium facilis.",
+      "rate": "5",
+      "publication_date": "cheminDeLImage",
+      "modification_date": "cheminDeLImage"
+    }
+
+  ]
+}

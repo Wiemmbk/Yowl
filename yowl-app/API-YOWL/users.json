@@ -1,0 +1,41 @@
+
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Patrick",
+        "email": "poivre.darvore@mail.com",
+        "password": "LeMotDePasseAEncrypter",
+        "profil_image": "cheminDeLImage"
+      },
+      {
+        "id": 2,
+        "name": "Denis",
+        "email": "brognare@mail.com",
+        "password": "LeMotDePasseAEncrypter",
+        "profil_image": "cheminDeLImage"
+      },
+      {
+        "id": 3,
+        "name": "Laure",
+        "email": "manaudou@mail.com",
+        "password": "LeMotDePasseAEncrypter",
+        "profil_image": "cheminDeLImage"
+      },
+      {
+        "id": 4,
+        "name": "Marion",
+        "email": "coquillard@mail.com",
+        "password": "LeMotDePasseAEncrypter",
+        "profil_image": "cheminDeLImage"
+      },
+      {
+        "id": 5,
+        "name": "Frodon",
+        "email": "saquer@mail.com",
+        "password": "LeMotDePasseAEncrypter",
+        "profil_image": "cheminDeLImage"
+      }
+    ]
+  }
+  
